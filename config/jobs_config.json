@@ -1,0 +1,67 @@
+{
+  "roles": [
+    "DevOps Engineer",
+    "DevSecOps Engineer",
+    "Platform Engineer",
+    "Site Reliability Engineer",
+    "Cloud Engineer",
+    "Linux Administrator",
+    "Infrastructure Engineer",
+    "Cloud Infrastructure Engineer",
+    "Kubernetes Engineer",
+    "Security Engineer"
+  ],
+
+  "locations": [
+    "Remote",
+    "Texas",
+    "United States"
+  ],
+
+  "skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "Ansible",
+    "GitHub Actions",
+    "Jenkins",
+    "ArgoCD",
+    "Vault",
+    "Prometheus",
+    "Grafana",
+    "OpenTelemetry",
+    "ELK",
+    "CloudWatch",
+    "Python",
+    "Bash",
+    "Linux",
+    "DevSecOps",
+    "SRE",
+    "Security",{
+  "roles": [
+    "DevOps Engineer",
+    "DevSecOps Engineer",
+    "Platform Engineer",
+    "Site Reliability Engineer",
+    "Cloud Engineer",
+    "Linux Administrator"
+  ],
+
+  "locations": [
+    "Remote",
+    "Texas",
+    "United States"
+  ],
+
+  "min_match_score": 70
+}
+    "Kafka",
+    "EKS",
+    "AKS"
+  ],
+
+  "min_match_score": 70
+}
