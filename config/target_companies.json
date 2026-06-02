@@ -1,0 +1,29 @@
+{
+  "greenhouse": [
+    "datadog",
+    "cloudflare",
+    "hashicorp",
+    "stripe",
+    "hubspot"
+  ],
+
+  "lever": [
+    "coinbase"
+  ],
+
+  "manual_companies": [
+    "Microsoft",
+    "Google",
+    "Oracle",
+    "Nvidia",
+    "Capital One",
+    "Fidelity Investments",
+    "Dell",
+    "ServiceNow",
+    "Cisco",
+    "CrowdStrike",
+    "Palo Alto Networks",
+    "Snowflake",
+    "Atlassian"
+  ]
+}

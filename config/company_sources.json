@@ -1,0 +1,12 @@
+{
+  "greenhouse": [
+    "datadog",
+    "cloudflare",
+    "hashicorp",
+    "stripe",
+    "hubspot"
+  ],
+  "lever": [
+    "coinbase"
+  ]
+}

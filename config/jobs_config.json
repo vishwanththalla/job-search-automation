@@ -1,16 +1,32 @@
 {
-  "roles": [
-    "DevOps Engineer",
-    "DevSecOps Engineer",
-    "Platform Engineer",
-    "Site Reliability Engineer",
-    "Cloud Engineer",
-    "Linux Administrator",
-    "Infrastructure Engineer",
-    "Cloud Infrastructure Engineer",
-    "Kubernetes Engineer",
-    "Security Engineer"
-  ],
+ TARGET_ROLES = [
+    "devops engineer",
+    "devsecops engineer",
+    "site reliability engineer",
+    "sre",
+    "platform engineer",
+    "cloud engineer",
+    "linux administrator",
+    "linux engineer",
+    "systems administrator",
+    "systems engineer",
+    "infrastructure engineer",
+    "cloud infrastructure engineer",
+    "kubernetes engineer"
+],
+
+EXCLUDED_KEYWORDS = [
+    "manager",
+    "director",
+    "sales",
+    "account executive",
+    "product manager",
+    "solution architect",
+    "solutions architect",
+    "marketing",
+    "recruiter",
+    "finance"
+],
 
   "locations": [
     "Remote",
@@ -40,24 +56,7 @@
     "Linux",
     "DevSecOps",
     "SRE",
-    "Security",{
-  "roles": [
-    "DevOps Engineer",
-    "DevSecOps Engineer",
-    "Platform Engineer",
-    "Site Reliability Engineer",
-    "Cloud Engineer",
-    "Linux Administrator"
-  ],
-
-  "locations": [
-    "Remote",
-    "Texas",
-    "United States"
-  ],
-
-  "min_match_score": 70
-}
+    "Security",
     "Kafka",
     "EKS",
     "AKS"
